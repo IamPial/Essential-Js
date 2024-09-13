@@ -1,0 +1,1 @@
+The isotope.js are mainly worked on website, when you need to show anything like that All screen or Mobile screen or Web Screen or anything like that.  And You want to  animated your any section with a some of pictures and buttons, then this is best for work!!
